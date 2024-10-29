@@ -40,7 +40,7 @@ wholesale/
 
 4. Run the executable:
    ```bash
-   ./wholesale
+   ./Wholesale
    ```
 
 ## Usage
