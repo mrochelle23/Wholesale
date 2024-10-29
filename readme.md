@@ -35,7 +35,7 @@ wholesale/
 3. Compile the program using a C++ compiler (e.g., g++):
 
    ```bash
-   g++ main.cpp -o wholesale
+   g++ main.cpp -o Wholesale
    ```
 
 4. Run the executable:
